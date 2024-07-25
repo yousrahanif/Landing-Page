@@ -36,6 +36,9 @@ body {
 ol, ul {
 	list-style: none;
 }
+.live{
+	color: #50a3cf;
+}
 
 blockquote, q {
 	quotes: none;
